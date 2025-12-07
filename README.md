@@ -1,6 +1,6 @@
-# Buon Gustaio Restaurant Website
+# Trattoria IL Buongustaio Restaurant Website
 
-A modern, visually striking website for Buon Gustaio, an authentic Italian restaurant in Guaynabo, Puerto Rico. Built with a modular card-based design system inspired by prefab architecture aesthetics.
+A modern, visually striking website for Trattoria IL Buongustaio, an authentic Italian restaurant. Built with a modular card-based design system inspired by prefab architecture aesthetics.
 
 ## Features
 
@@ -172,7 +172,7 @@ The app can be deployed to any platform supporting Next.js:
 
 ## License
 
-This project is created for Buon Gustaio restaurant. Customize as needed for your use.
+This project is created for Trattoria IL Buongustaio restaurant. Customize as needed for your use.
 
 ## Support
 
